@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TokSave PRO",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Toksave",
+  "start_url": "/toksave/",
+  "theme_color": "#ffffff",
+  "id": "com.toksave.app",
+  "description": "TikTok video link Downloader Without Watermark",
+  "lang": "en",
+  "categories": [
+    "multimedia design",
+    "utilities"
+  ]
+}
